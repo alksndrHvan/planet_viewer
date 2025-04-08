@@ -1,0 +1,39 @@
+{
+    "en": {
+      "name": "Name",
+      "climate": "Climate",
+      "population": "Population",
+      "diameter": "Diameter",
+      "planets": {
+        "Tatooine": "Tatooine",
+        "Alderaan": "Alderaan",
+        "Yavin IV": "Yavin IV",
+        "Hoth": "Hoth",
+        "Dagobah": "Dagobah",
+        "Bespin": "Bespin",
+        "Endor": "Endor",
+        "Naboo": "Naboo",
+        "Coruscant": "Coruscant",
+        "Kamino": "Kamino"
+      }
+    },
+    "ru": {
+      "name": "Имя",
+      "climate": "Климат",
+      "population": "Население",
+      "diameter": "Диаметр",
+      "planets": {
+        "Tatooine": "Татуин",
+        "Alderaan": "Алдеран",
+        "Yavin IV": "Явин IV",
+        "Hoth": "Хот",
+        "Dagobah": "Дагоба",
+        "Bespin": "Беспин",
+        "Endor": "Эндор",
+        "Naboo": "Набу",
+        "Coruscant": "Корусант",
+        "Kamino": "Камино"
+      }
+    }
+  }
+  
