@@ -18,7 +18,6 @@
     <div class="container">
         <h1>SWAPI</h1>
     
-        <!-- Обёртка для лейбла и кнопок сортировки -->
         <div class="sort-wrapper">
           <label class="sort-label" for="sort-buttons">Сортировка:</label>
           <div class="sort-buttons" id="sort-buttons">
@@ -30,7 +29,6 @@
           </div>
         </div>
     
-    <!-- Фильтр населения -->
     <div class="filter-section">
         <label for="population-min">Население (min):</label>
         <input type="number" id="population-min" placeholder="0" value="0" />
@@ -39,7 +37,6 @@
         <input type="number" id="population-max" placeholder="∞" />
       </div>
   
-      <!-- Фильтр диаметра -->
       <div class="filter-section">
         <label for="diameter-min">Диаметр (min):</label>
         <input type="number" id="diameter-min" placeholder="0" value="0" />
@@ -47,11 +44,9 @@
         <label for="diameter-max">Диаметр (max):</label>
         <input type="number" id="diameter-max" placeholder="∞" />
       </div>
-        <!-- Контейнер для карточек планет -->
         <div id="planet-details" class="planet-container"></div>
     
 
-  <!-- Подключаем все JS модули (порядок важен!) -->
   <script src="translation.js"></script>
   <script src="fetchPlanets.js"></script>
   <script src="sorting.js"></script>
