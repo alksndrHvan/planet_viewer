@@ -1,1 +1,1 @@
-# swapi_viewer
+# planets_viewer
